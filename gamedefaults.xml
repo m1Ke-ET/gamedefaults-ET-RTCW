@@ -318,9 +318,9 @@
 		<Icon>rtcw.ico</Icon>
 		<MasterServers>
 			<MasterServer http="0" protocol="60">wolfmaster.idsoftware.com:27950</MasterServer>
-			<MasterServer http="0" protocol="59">wolfmaster.rtcwmp.com:27950</MasterServer>
-			<MasterServer http="0" protocol="58">wolfmaster.s4ndmod.com:27950</MasterServer>
-			<MasterServer http="0" protocol="57">dpmaster.deathmask.net:27950</MasterServer>
+			<MasterServer http="0" protocol="60">wolfmaster.rtcwmp.com:27950</MasterServer>
+			<MasterServer http="0" protocol="60">wolfmaster.s4ndmod.com:27950</MasterServer>
+			<MasterServer http="0" protocol="60">dpmaster.deathmask.net:27950</MasterServer>
 		</MasterServers>
 		<ServerDefaultPort>27960</ServerDefaultPort>
 		<ServerInfoQuery>\xFF\xFF\xFF\xFFgetstatus\n</ServerInfoQuery>
